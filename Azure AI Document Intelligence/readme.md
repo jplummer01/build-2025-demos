@@ -28,20 +28,20 @@ Content Understanding can be presented either through [Foundry Portal](https://a
 
 **@Aditi: Do we have a pro mode demo that we can show at the booth or will we need to add a video for that?**
 
-**Prerequisites**:
+***Prerequisites:***
 - Please make sure you have access to a subscription and have permissions to create resources and add role assignments.
 - Ideally have an AI Services/HUB resource setup prepared.
 
 #### Foundry Portal Demo Standard Mode Happy Path
 
-**Create Content Understandind task**
+***Create Content Understandind task***
 1. Go to the **[Content Understanding Landing Page](https://int.ai.azure.com/explore/aiservices/vision/contentunderstanding)**.
 1. Click **Select or create a project** button
 1. Either select an existing project or create a new one
 1. Project should open on the 'Content Understanding / Custom task' page and the 'Create a new task' wizard should open
 1. Fill out the 'Create a new task' settings and create
 
-**Setup and test task analyzer**
+***Setup and test task analyzer***
 1. The task will open on the 'Define schema' page
 1. Upload one of the sample files
 1. Service will provide a selection of templates suitable to the modality
