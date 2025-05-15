@@ -1,4 +1,5 @@
 # Microsoft Build 2025
+https://github.com/azure-ai-foundry/build-2025-demos/blob/main/Foundry%20Local/readme.md
 
 Meet the Experts Area: AI Copilots and Agents
 Station Topic: Foundry Local
