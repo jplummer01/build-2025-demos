@@ -15,7 +15,8 @@ Build intelligent on device AI with Azure AI Foundry. With seamless integration 
 
 -Breakout: Azure AI Foundry: The Agent Factory - Azure AI Foundry: The Agent Factory (Breakout session where Foundry Local will be mention)
 Join Azure AI Foundry's flagship session. Learn how to supercharge your AI development with our integrated signals loop that connects model choice, knowledge retrieval, fine-tuning, orchestration and memory —anchored by observability and trust. Design, customize, and manage intelligent agents using open standards and protocols such as Model Context Protocol (MCP) and Agent-to-Agent (A2A) to connect with tools and drive collaboration. Gain insights into advanced orchestration, tracing, and monitoring to streamline decision-making, boost efficiency, accelerate time to market, and lower costs.
-•	Build and ship cross platform apps on-device with AI Foundry and ONNX - Build and ship cross platform apps on-device with AI Foundry and ONNX (Demo session)
+
+-Build and ship cross platform apps on-device with AI Foundry and ONNX - Build and ship cross platform apps on-device with AI Foundry and ONNX (Demo session)
 Join us for a live coding demo to show you how to develop an AI-enabled application on device, in less than 15 mins. In real time you see how to download and install the tools, choose the best model, and develop the application.
 
 ## What’s Foundry Local?
@@ -24,11 +25,13 @@ Foundry Local is designed to streamline local AI app development and model deplo
 ## What do customers need from Foundry Local
 
 Developers need ease of use and performance, prioritizing intuitive interfaces, robust documentation, seamless onboarding, and efficient debugging tools. Models must run efficiently under resource constraints, requiring optimized algorithms and hardware acceleration.
+
 Access to a diverse library of quality pre-trained models that can be customized for various use cases is crucial. Strong community support helps developers collaborate and share resources. Ensuring applications run on various devices and operating systems maximizes their reach.
-Learn more about Foundry Local: AIFPC _AIFL PrPr_for Build25.pptx
+
+-Learn more about Foundry Local: AIFPC _AIFL PrPr_for Build25.pptx
 
 ## Resources at your Station
-GitHub Repo: [Link to the Repo] Yes, this Repo :) ccheck the Foundry Local Branch
+GitHub Repo: [Link to the Repo] Yes, this Repo :) check the Foundry Local Branch
 
 ### Videos: Product Demos
  FL Demos for Build25.pptx
