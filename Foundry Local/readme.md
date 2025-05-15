@@ -54,3 +54,6 @@ GitHub Repo: [Link to the Repo] Yes, this Repo :) check the Foundry Local Branch
 Here is the aka link : https://aka.ms/Build2025/FoundryLocal. -Link to be active on 05/19 after 10AM local time
 
 -Tech Blog Video: endtoEnd_Sizzle-5.mp4
+
+![image](https://github.com/user-attachments/assets/9e892f2c-543d-42e8-954f-5bbe0144affb)
+
