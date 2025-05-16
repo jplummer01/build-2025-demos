@@ -10,7 +10,7 @@ Take an extra step to defend against prompt injection attacks by "spotlighting" 
 Ensure your agents are aligned with user intent. The Task Adherence API (coming soon) detects misaligned tool requests that can be blocked or transitioned to Human-In-The-Loop.
 ###  Security alerts and recommendations (Public Preview)
 Security alerts and recommendations are now in Foundry for AI developers to monitor and monitor and strengthen security posture. 
-### AOAI Request-Level Content Filters (GA)
+### AOAI Request-Level Content Filters (Public Preview)
 Specify your custom AOAI content filtering configuration for every API call at request time.
 ### Build trustworthy AI with additional security and safety features in Foundry (Public Preview)
 Enhance the safety and security of your AI deployments with better monitoring, agent trust, guardrails and governance in place. 
