@@ -21,7 +21,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 * Booth Slides: [AOAI rotating deck](https://microsoft.sharepoint.com/:p:/t/AIPSC/ETGlbzv-asxBtP45b6Y1dNgBfLj75sDjJH66bFkYw3G7hg?e=9s6oce)
 * Demos & videos: [AOAI demos](https://microsoft.sharepoint.com/:p:/t/AIPSC/EfAWr0ttyGJHuaA0jFphjUwBBUwq4SkcLfWyenmmar2U0w?e=0eKWkY)
 
-## Azure AI Foundry Blogd
+## Azure AI Foundry Blogs
 
 * https://aka.ms/Build25/FoundryFT
 * https://aka.ms/Build25/HeroBlog/Foundry
