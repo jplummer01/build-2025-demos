@@ -2,17 +2,17 @@
 
 ## Key Announcements
 
-### PII support in content safety filters. 
+### PII support in content safety filters (Public Preview)
 Configure your LLM output to detect and block over 40 types of personally identifiable information.
-### XPIA spotlighitng 
+### XPIA spotlighitng (Public Preview)
 Take an extra step to defend against prompt injection attacks by "spotlighting" your uploaded documents, which makes it less likely for LLMs to interpret them as instructions.
 ### Task adherence monitoring (coming soon!)
 Ensure your agents are aligned with user intent. The Task Adherence API (coming soon) detects misaligned tool requests that can be blocked or transitioned to Human-In-The-Loop.
-###  Security alerts and recommendations
+###  Security alerts and recommendations (Public Preview)
 Security alerts and recommendations are now in Foundry for AI developers to monitor and monitor and strengthen security posture. 
-### AOAI Request-Level Content Filters
+### AOAI Request-Level Content Filters (GA)
 Specify your custom AOAI content filtering configuration for every API call at request time.
-### Build trustworthy AI with additional security and safety features in Foundry
+### Build trustworthy AI with additional security and safety features in Foundry (Public Preview)
 Enhance the safety and security of your AI deployments with better monitoring, agent trust, guardrails and governance in place. 
 
 
