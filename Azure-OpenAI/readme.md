@@ -25,7 +25,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 * https://aka.ms/Build25/FoundryFT
 * https://aka.ms/Build25/HeroBlog/Foundry
-* Sora for Azure OpenAI (TBA)
+* https://aka.ms/Sora_Build_Blog 
 
 ## Sessions
 
