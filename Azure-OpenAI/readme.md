@@ -5,7 +5,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 * API Announcements
     * Sora for Azure OpenAI (coming soon!)
 *   Provisioned Throughput
-    * Azure Direct for Foundry Models (Provisioned Throughput offering)
+    * Azure AI Foundry Provisioned Throughput (public preview)
     * Provisioned Throughput Dynamic Spillover (public preview)
 * Fine Tuning
     * New Models: o4-mini, 4.1 nano, llama 4 scout
@@ -14,7 +14,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
     * ... and ready to support you in production: GA for PTU-M, Global Deployments, extended model support for fine-tuned models (1 year after based model deprecation)
 * Model Router (public preview)
 * Prompt Caching (public preview)
-* Batch Dynamic Token Quota (public preview
+* Batch Dynamic Token Quota (public preview)
 
 ## Booth Content
 
@@ -25,7 +25,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 * https://aka.ms/Build25/FoundryFT
 * https://aka.ms/Build25/HeroBlog/Foundry
-* Sora for Azure OpenAI (TBA)
+* https://aka.ms/Sora_Build_Blog 
 
 ## Sessions
 
