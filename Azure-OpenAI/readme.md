@@ -14,7 +14,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
     * ... and ready to support you in production: GA for PTU-M, Global Deployments, extended model support for fine-tuned models (1 year after based model deprecation)
 * Model Router (public preview)
 * Prompt Caching (public preview)
-* Batch Dynamic Token Quota (public preview
+* Batch Dynamic Token Quota (public preview)
 
 ## Booth Content
 
