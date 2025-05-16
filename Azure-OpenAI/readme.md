@@ -16,8 +16,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 ## Booth Content
 
 * Booth Slides: [AOAI rotating deck](https://microsoft.sharepoint.com/:p:/t/AIPSC/ETGlbzv-asxBtP45b6Y1dNgBfLj75sDjJH66bFkYw3G7hg?e=9s6oce)
-* Demos:
-* Videos:
+* Demos & videos: [AOAI demos](https://microsoft.sharepoint.com/:p:/t/AIPSC/EfAWr0ttyGJHuaA0jFphjUwBBUwq4SkcLfWyenmmar2U0w?e=0eKWkY)
 
 ## Azure AI Foundry Blogd
 
@@ -39,3 +38,4 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 * [Learn more about gpt-image-1 API](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dall-e?tabs=gpt-image-1)
 * [Customize a model with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=azure-openai&pivots=programming-language-studio)
 * [Azure OpenAI Service fine-tuning considerations](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext)
+* [Prompt Caching](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching)
