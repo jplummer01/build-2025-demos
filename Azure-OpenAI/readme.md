@@ -9,7 +9,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
     * Provisioned Throughput Dynamic Spillover (public preview)
 * Fine Tuning
     * New Models: o4-mini, 4.1 nano, llama 4 scout
-    * New capabilities: reinforecement fine tuning (RFT), Azure Openai Evaluation
+    * New capabilities: reinforecement fine tuning (RFT), Azure OpenAI Evaluation
     * Easier to get stated: developer tier (no hosting fee!), global training (train from any region but more inexpensively)
     * ... and ready to support you in production: GA for PTU-M, Global Deployments, extended model support for fine-tuned models (1 year after based model deprecation)
 * Model Router (public preview)
