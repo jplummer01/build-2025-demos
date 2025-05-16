@@ -17,7 +17,9 @@ Enhance the safety and security of your AI deployments with better monitoring, a
 
 
 ## Sessions
-[BRK145](https://build.microsoft.com/en-US/sessions/BRK145?source=sessions) From code to cloud: new tools for building trustworthy GenAI apps - May 20 | 4:30-5:30pm PT
+[BRK145](https://build.microsoft.com/en-US/sessions/BRK145?source=sessions) From code to cloud: new tools for building trustworthy GenAI apps - Tuesday, May 20 | 4:30-5:30pm PT
+[DEM527](https://build.microsoft.com/en-US/sessions/DEM527?source=sessions) From risk to reward: AI governance integrations for Azure AI Foundry - Wednesday, May 21 | 2:50 PM - 3:05 PM PT
+[BRK168](https://build.microsoft.com/en-US/sessions/BRK168?source=sessions) AI and Agent Observability in Azure AI Foundry and Azure Monitor - Wednesday, May 21 | 12:30 PM - 1:30 PM
 
 ## Documentation
 - [Personally Identifiable Information (PII) Filter - Azure AI services | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-personal-information?branch=release-build-ai-foundry) 
