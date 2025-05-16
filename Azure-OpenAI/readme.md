@@ -29,10 +29,12 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 ## Sessions
 
-* [BRK 173 Advanced Azure OpenAI Innovation in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK173?source=sessions)
-* [BRK170 Revolutionizing AI Apps with Multimodal Models in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK170?source=sessions)
-* [BRK150 Fine-tuning and distillation with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK150?source=sessions)
-* [BRK178 Optimize your GenAI applications at scale in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK178?source=sessions)
+| Date | Time | Session Link|
+|------|------|-------------|
+|Monday, May 19| 4:30pm - 5:30pm PT| [BRK 173 Advanced Azure OpenAI Innovation in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK173?source=sessions)|
+|Tuesday, May 20| 3:00pm - 4:00pm PT| [BRK150 Fine-tuning and distillation with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK150?source=sessions)|
+|Wednesday, May 21| 3:30pm - 4:30pm PT|[BRK178 Optimize your GenAI applications at scale in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK178?source=sessions)|
+|Wednesday, May 21| 5:00pm - 6:00pm PT|[BRK170 Revolutionizing AI Apps with Multimodal Models in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK170?source=sessions)|
 
 ## Learning Resources
 
