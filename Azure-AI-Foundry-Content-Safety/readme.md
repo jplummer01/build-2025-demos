@@ -4,7 +4,7 @@
 
 ### PII support in content safety filters (Public Preview)
 Configure your LLM output to detect and block over 40 types of personally identifiable information.
-### XPIA spotlighitng (Public Preview)
+### XPIA spotlighting (Public Preview)
 Take an extra step to defend against prompt injection attacks by "spotlighting" your uploaded documents, which makes it less likely for LLMs to interpret them as instructions.
 ### Task adherence API (coming soon!)
 Ensure your agents are aligned with user intent. The Task Adherence API (coming soon) detects misaligned tool requests that can be blocked or transitioned to Human-In-The-Loop.
@@ -27,5 +27,6 @@ Enhance the safety and security of your AI deployments with better monitoring, a
 ## Documentation
 - [Personally Identifiable Information (PII) Filter - Azure AI services | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-personal-information?branch=release-build-ai-foundry) 
 - [Content Filter Prompt Shields - Azure AI services | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-prompt-shields?branch=release-build-ai-foundry)
+- [Document embedding in prompts](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-document-embedding?branch=release-build-ai-foundry)
 - [Use content filters (preview) - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters#specify-a-content-filtering-configuration-at-request-time-preview)
 - [Trustworthy AI for Azure AI Foundry | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview?branch=release-build-ai-foundry-non-FDP-features)
