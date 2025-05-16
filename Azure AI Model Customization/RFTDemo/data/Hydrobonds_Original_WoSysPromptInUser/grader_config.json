@@ -1,0 +1,21 @@
+{
+    "name": "hydrobonds_grader",
+    "type": "multi",
+    "graders": {
+        "donors_string_check": {
+            "name": "donors_string_check",
+            "type": "string_check",
+            "operation": "eq",
+            "input": "{{sample.output_json.donors}}",
+            "reference": "{{item.reference_answer.donors}}"
+        },
+        "acceptors_string_check": {
+            "name": "acceptors_string_check",
+            "type": "string_check",
+            "operation": "eq",
+            "input": "{{sample.output_json.acceptors}}",
+            "reference": "{{item.reference_answer.acceptors}}"
+        }
+    },
+    "calculate_output": "0.5 * donors_string_check + 0.5 * acceptors_string_check"
+}

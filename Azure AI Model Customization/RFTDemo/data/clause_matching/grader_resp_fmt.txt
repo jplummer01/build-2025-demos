@@ -1,0 +1,73 @@
+Grader: {"type":"object-grader","property_graders":{"clause_type":{"type":"string-check-grader","reverse":false,"case_sensitive":false,"operation":"equals"},"extracted_text":{"type":"string-similarity-grader","operation":"rouge-l"}},"calculate_output":"(clause_type + extracted_text)/2"}
+From OAI: {
+  "type": "object-grader",
+  "property_graders": {
+    "clause_type": {
+      "type": "string-check-grader",
+      "operation": "equals",
+      "case_sensitive": false,
+      "reverse": false
+    },
+    "extracted_text": {
+      "type": "string-check-grader",
+      "operation": "rouge-l",
+      "case_sensitive": false,
+      "reverse": false
+    }
+  },
+  "calculate_output": "0.5 * clause_type + 0.5 * extracted_text"
+}
+
+NEW --------------------------------------->
+Grader: 
+{
+  "name": "clause_matching_grader",
+  "type": "multi",
+  "graders": {
+    "clause_type": {
+      "name": "clause_type_grader",
+      "type": "string_check",
+      "input": "{{item.item.reference_answer.clause_type}}",
+      "reference": "{{sample.output_text.clause_type}}",
+      "operation": "like"
+    },
+    "extracted_text": {
+      "name": "extracted_text_grader",
+      "type": "text_similarity",
+      "input": "{{item.item.reference_answer.extracted_text}}",
+      "reference": "{{sample.output_text.extracted_text}}",
+      "evaluation_metric": "bleu",
+      "pass_threshold": "0.6"
+    }
+  },
+  "calculate_output": "(extracted_text + clause_type) / 2"
+}
+ 
+ 
+Response Fmt: 
+{
+  "type": "json_schema",
+  "json_schema": {
+    "name": "response",
+    "strict": true,
+    "schema": {
+      "properties": {
+        "clause_type": {
+          "title": "clause_type",
+          "type": "string"
+        },
+        "extracted_text": {
+          "title": "extracted_text",
+          "type": "string"
+        }
+      },
+      "required": [
+        "clause_type",
+        "extracted_text"
+      ],
+      "title": "Clause Matching",
+      "type": "object",
+      "additionalProperties": false
+    }
+  }
+}
