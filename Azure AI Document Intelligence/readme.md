@@ -16,12 +16,10 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 - Audio Understanding: Multi-speaker detection to identify roles in conversations, enhancing analysis in call center and meeting scenarios.
 - Face API Preview: Detect, recognize, and enroll faces, enabling richer user-aware applications.
 
-The following slides can be used at the booth: [slides_placeholder.pptx](./slides_placeholder.pptx)
-
 ## Booth Content
 
-- (Overview Slides)[./Azure AI Document Intelligence\Build 25 Content Understanding Expert Booth.pptx]
-- (FAQ for BUILD '25)[./faq.md]
+- [Overview Slides](./Azure AI Document Intelligence\Build 25 Content Understanding Expert Booth.pptx)
+- [FAQ for BUILD '25](./faq.md)
 
 ## Quick Links to share
 
