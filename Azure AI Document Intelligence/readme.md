@@ -4,13 +4,17 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 ## Recently announced features or updates
 
 ### Document Intelligence
--- [Documentation](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0)
--- Batch API
--- Read/Prebuild/Custom models
+- [Documentation](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0)
+- [Batch API](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-batch-analysis?view=doc-intel-4.0.0)
+- [Read/Prebuild/Custom models via Document Intelligence Studio](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview?view=doc-intel-4.0.0&tabs=di-studio)
 
 ### Content Understanding
-- Pro mode ...
--
+- Pro mode: Pro mode, currently limited to documents, is designed for scenarios where content understanding needs to go beyond surface-level extraction—ideal for use cases that traditionally require postprocessing, human review and decision-making based on multiple data points and contextual references.
+- Structured Document Outputs: Improved handling of tables spanning multiple pages, recognition of selection marks, and support for additional file types like .rtf, .xml, .csv, .msg, and .eml.
+- Classifier API: Automatically categorize/split and route documents to appropriate processing pipelines.
+- Video Analysis: Extract data across an entire video or break a video into  chapters automatically. Enrich metadata with face identification and descriptions that include facial images.
+- Audio Understanding: Multi-speaker detection to identify roles in conversations, enhancing analysis in call center and meeting scenarios.
+- Face API Preview: Detect, recognize, and enroll faces, enabling richer user-aware applications.
 
 The following slides can be used at the booth: [slides_placeholder.pptx](./slides_placeholder.pptx)
 
@@ -29,33 +33,6 @@ The following slides can be used at the booth: [slides_placeholder.pptx](./slide
 
 Content Understanding can be presented either through [Foundry Portal](https://ai.azure.com) or via the provided python samples repos.
 
-
-***Prerequisites:***
-- Please make sure you have access to a subscription and have permissions to create resources and add role assignments.
-- Ideally have an AI Services/HUB resource setup prepared.
-
-#### Foundry Portal Demo Standard Mode Happy Path
-
-***Create Content Understandind task***
-1. Go to the **[Content Understanding Landing Page](https://int.ai.azure.com/explore/aiservices/vision/contentunderstanding)**.
-1. Click **Select or create a project** button
-1. Either select an existing project or create a new one
-1. Project should open on the 'Content Understanding / Custom task' page and the 'Create a new task' wizard should open
-1. Fill out the 'Create a new task' settings and create
-
-***Setup and test task analyzer***
-1. The task will open on the 'Define schema' page
-1. Upload one of the sample files
-1. Service will provide a selection of templates suitable to the modality
-1. Select template and hit **Create** button
-1. On the schema editor page either continue with template schema or show modifications
-1. Hit **Save** button to save the schema which will lead you to the 'Test analyzer' page
-1. Hit **Run analysis** on the 'Test analyzer' page to invoke processing
-1. Upload more files as you like
-1. To make the analyzer available for inferencing go to 'Build analyzer' section and hit **+ Build analyzer** button
-1. You can also open the analyzer after creation and show the analyzers schema, Test the deployed version and get code examples
-
-Feel free to show any of the advanced settings on the Content Understanding task as you feel comfortable.
 
 #### Python Samples
 
