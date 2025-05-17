@@ -45,9 +45,9 @@ We’re thrilled to launch the public preview of Azure AI Foundry Observability,
   
 ## Sessions
 - [KEY010: Opening keynote](https://build.microsoft.com/en-US/sessions/KEY010?source=sessions) (May 19 | 9:05 AM)
-- [BRK155: Azure AI Foundry: The Agent Factory]() (May 19 | 11:45 AM)
-- [LAB334: Evaluate and improve the quality and safety of your AI applications]() (May 19 | 4:30 PM)
-- [DEM528: Continuously improve your Agent in production]() (May 20 | 5:30 PM)
-- [BRK168: AI and Agent Observability in Azure AI Foundry and Azure Monitor]() (May 21 | 12:30 PM)
-- [DEM527: From risk to reward: AI governance integrations for Azure AI Foundry]() (May 21 | 2:50 PM)
-- [DEM552: Accelerate AI red teaming for your GenAI apps]() (May 21 | 3:30 PM)
+- [BRK155: Azure AI Foundry: The Agent Factory](https://build.microsoft.com/en-US/sessions/BRK155?source=sessions) (May 19 | 11:45 AM)
+- [LAB334: Evaluate and improve the quality and safety of your AI applications](https://build.microsoft.com/en-US/sessions/LAB334?source=sessions) (May 19 | 4:30 PM)
+- [DEM528: Continuously improve your Agent in production](https://build.microsoft.com/en-US/sessions/DEM528?source=sessions) (May 20 | 5:30 PM)
+- [BRK168: AI and Agent Observability in Azure AI Foundry and Azure Monitor](https://build.microsoft.com/en-US/sessions/BRK168?source=sessions) (May 21 | 12:30 PM)
+- [DEM527: From risk to reward: AI governance integrations for Azure AI Foundry](https://build.microsoft.com/en-US/sessions/DEM527?source=sessions) (May 21 | 2:50 PM)
+- [DEM552: Accelerate AI red teaming for your GenAI apps]([https://build.microsoft.com/en-US/sessions/LAB334?source=sessions](https://build.microsoft.com/en-US/sessions/DEM552?source=sessions) (May 21 | 3:30 PM)
