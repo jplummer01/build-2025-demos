@@ -4,15 +4,13 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 ## Recently announced features or updates
 
 ### Document Intelligence
-- xxx
-- xxx
-- xxx
+-- [Documentation](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0)
+-- Batch API
+-- Read/Prebuild/Custom models
 
 ### Content Understanding
 - Pro mode ...
-- xxx
-- xxx
-- xxx
+-
 
 The following slides can be used at the booth: [slides_placeholder.pptx](./slides_placeholder.pptx)
 
@@ -27,15 +25,10 @@ The following slides can be used at the booth: [slides_placeholder.pptx](./slide
 
 ## Demos
 
-### Document Intelligence
-
-**@Aditi: Anything to demo for document intelligence?**
-
 ### Content Understanding
 
 Content Understanding can be presented either through [Foundry Portal](https://ai.azure.com) or via the provided python samples repos.
 
-**@Aditi: Do we have a pro mode demo that we can show at the booth or will we need to add a video for that?**
 
 ***Prerequisites:***
 - Please make sure you have access to a subscription and have permissions to create resources and add role assignments.

@@ -1,0 +1,18 @@
+# Core libraries
+requests  # For making HTTP requests
+python-dotenv  # For loading environment variables from .env files
+asyncio  # For asynchronous programming
+
+# Data manipulation and visualization
+pandas  # For data manipulation and analysis
+matplotlib  # For creating visualizations
+numpy  # For numerical computations
+
+datasets # For loading and processing datasets
+
+# Jupyter Notebook
+notebook  # For running Jupyter notebooks
+
+# OpenAI SDK
+openai  # For interacting with the OpenAI API
+
