@@ -15,11 +15,12 @@ Production Support
 
 
 ## Decks
-Coming Soon
+- Rolling Deck at the booth with highlights & deepdive sections [https://microsoftapc-my.sharepoint.com/:p:/g/personal/nandinim_microsoft_com/EWwZ-TJxU1JEkNbSFp3tQRcBFXwI1cdPlkDZDhWEk0J6qg?e=tpNEeN]
 
 ## Documentation
 - [Customize Model with Fine Tuning | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=azure-openai&pivots=programming-language-studio)
 - [When to fine tune | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext)
+- [Models & tokens] (https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=global-standard%2Cstandard-chat-completions)
 
 
 ## Demos and Samples
@@ -33,4 +34,4 @@ Coming Soon
 ## Blogs
 - Coming Soon
 
-## FAQ
+
