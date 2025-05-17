@@ -14,6 +14,15 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 
 The following slides can be used at the booth: [slides_placeholder.pptx](./slides_placeholder.pptx)
 
+## Booth Content
+
+- (Overview Slides)[./Azure AI Document Intelligence\Build 25 Content Understanding Expert Booth.pptx]
+- (FAQ for BUILD '25)[./faq.md]
+
+## Quick Links to share
+
+![Content Understanding QR Codes](./cu-qr-codes.png)
+
 ## Demos
 
 ### Content Understanding
@@ -75,13 +84,6 @@ You can find sample data for all modalities in the [data](./data/) folder.
 
 ## Blogs
 
-Add it later
-
-[Preview.2 Announcement Blog](...)
+[Preview.2 Announcement Blog](TBD Monday)
 
 [Learn Video Series - Announcement Blog](https://techcommunity.microsoft.com/blog/Azure-AI-Services-blog/introducing-azure-ai-content-understanding-for-beginners/4413071)
-
-## FAQ
-
-
-
