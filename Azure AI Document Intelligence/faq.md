@@ -1,13 +1,17 @@
 
 # FAQ for CU and DI at Build
 
-## Compiling some potentially asked questions for CU at Build.
+## Compiling some potentially asked questions for CU at Build 2025
 
 ### Q: What is Azure AI Content Understanding?
 A: It’s a multimodal service that uses AI to extract insights, classify, generate, any unstructured or semi-structured content — like documents, audio, video, text, web pages, and digital archives — into structured format to be consumed by other workflows like LLM, agents, etc.
 
 ### Q: How is it different from Azure Document Intelligence?
 A: Document Intelligence focuses on structured document extraction (forms, invoices, etc.), while Content Understanding focuses on broad, unstructured or mixed-content processing (text, images, audio, video, web pages) for search and knowledge mining.
+
+### Q: What are the new modes in Content Understanding?
+A: Standard: This mode serves as the default solution for processing diverse content types. It's optimized to provide efficient schema extraction tailored to specific tasks across all data formats. This mode emphasizes cost-effectiveness and reduced latency, ensuring structured insights are accessible for your general processing needs.
+Pro: This mode is designed for advanced use cases, particularly those requiring multi-step reasoning, and complex decision-making (for instance, identifying inconsistencies, drawing inferences, and making sophisticated decisions). The pro mode allows input from multiple content files and includes the option to provide reference data at analyzer creation time. Currently, pro mode is only offered for your document-based data.
 
 ### Q: What are the typical use cases?
 A: 
@@ -44,7 +48,7 @@ A: <Adding list of all the file types we support across modality post preview.2>
 A: Only python based REST API repo is available for now. Will be adding SDKs shortly.
 
 ### Q: How is the service priced? Are there free tiers or trials available?
-A: 
+A: Please refer to our pricing page for more details. 
 
 ### Q: What is the difference between content and field extraction?
 
