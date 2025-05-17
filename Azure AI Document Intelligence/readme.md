@@ -18,7 +18,7 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 
 ## Booth Content
 
-- [Overview Slides](./Build 25 Content Understanding Expert Booth.pptx)
+- [Overview Slides]('./Build 25 Content Understanding Expert Booth.pptx')
 - [FAQ for BUILD '25](./faq.md)
 
 ## Quick Links to share
