@@ -1,5 +1,5 @@
 # Azure AI Document Intelligence & Content Understanding Expert Booth Material
-This is the main folder for Azure AI Document Intelligence and Azure AI Content Understanding content for BUILD '25.
+This is the main folder for Azure AI Document Intelligence and Azure AI Content Understanding content for BUILD '25. 
 
 ## Recently announced features or updates
 
@@ -9,7 +9,7 @@ This is the main folder for Azure AI Document Intelligence and Azure AI Content 
 - [Read/Prebuild/Custom models via Document Intelligence Studio](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview?view=doc-intel-4.0.0&tabs=di-studio)
 
 ### Content Understanding
-- Pro mode: Pro mode, currently limited to documents, is designed for scenarios where content understanding needs to go beyond surface-level extraction—ideal for use cases that traditionally require postprocessing, human review and decision-making based on multiple data points and contextual references.
+- Pro mode: [Pro mode](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/concepts/standard-pro-modes), currently limited to documents, is designed for scenarios where content understanding needs to go beyond surface-level extraction—ideal for use cases that traditionally require postprocessing, human review and decision-making based on multiple data points and contextual references.
 - Structured Document Outputs: Improved handling of tables spanning multiple pages, recognition of selection marks, and support for additional file types like .rtf, .xml, .csv, .msg, and .eml.
 - Classifier API: Automatically categorize/split and route documents to appropriate processing pipelines.
 - Video Analysis: Extract data across an entire video or break a video into  chapters automatically. Enrich metadata with face identification and descriptions that include facial images.
