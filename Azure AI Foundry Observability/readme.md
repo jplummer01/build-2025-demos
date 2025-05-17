@@ -50,4 +50,4 @@ We’re thrilled to launch the public preview of Azure AI Foundry Observability,
 - [DEM528: Continuously improve your Agent in production](https://build.microsoft.com/en-US/sessions/DEM528?source=sessions) (May 20 | 5:30 PM)
 - [BRK168: AI and Agent Observability in Azure AI Foundry and Azure Monitor](https://build.microsoft.com/en-US/sessions/BRK168?source=sessions) (May 21 | 12:30 PM)
 - [DEM527: From risk to reward: AI governance integrations for Azure AI Foundry](https://build.microsoft.com/en-US/sessions/DEM527?source=sessions) (May 21 | 2:50 PM)
-- [DEM552: Accelerate AI red teaming for your GenAI apps]([https://build.microsoft.com/en-US/sessions/LAB334?source=sessions](https://build.microsoft.com/en-US/sessions/DEM552?source=sessions) (May 21 | 3:30 PM)
+- [DEM552: Accelerate AI red teaming for your GenAI apps](https://build.microsoft.com/en-US/sessions/DEM552?source=sessions) (May 21 | 3:30 PM)
