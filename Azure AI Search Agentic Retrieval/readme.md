@@ -7,11 +7,11 @@ Content to help experts prepare for staffing the  Azure AI Search Agentic Retrie
 If a customer has a feature request or product feedback, send them here: [https://aka.ms/AI/Feedback](https://aka.ms/AI/Feedback)
 
 ### Decks
-- [BUILD 2025 Product Announcements](decks/BUILD%202025%20-%20Product%20Announcements%20-%20One%20Sliders%20-%20Azure%20AI%20Search%20FY25.pptx)
-- Azure AI Search Pitch Decks (General content covering the product)
-  - [L100](decks/L100%20-%20Pitch%20Deck_Azure%20AI%20Search.PPTX
-  - [L300](decks/L300%20-%20Azure%20AI%20Search%20FY25.pptx)
-  - [L400](decks/L400%20-%20Azure%20AI%20Search%20FY25%20WIP.pptx)
+- [BUILD 2025 Product Announcements](https://aka.ms/AISearch-releases)
+- Azure AI Search Pitch Decks
+  - [L100](https://aka.ms/aisearch-L100)
+  - [L300](https://aka.ms/AISearch-L300)
+  - [L400](https://aka.ms/AISearch-L400)
 
 ### Running Demos
 - [Agentic Retrieval Demo](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/)
