@@ -27,6 +27,8 @@ Content to help experts prepare for staffing the  Azure AI Foundry Models at BUI
 - [BRK171: Solving the Unsolvable: Advanced Agentic AI Models in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK171?source=sessions) (May 20 | 11:45 AM)
 - [BRK174: Unveiling Latest Innovations in Azure AI Foundry Model Catalog](https://build.microsoft.com/en-US/sessions/BRK174?source=sessions) (May 20 | 1:30 PM)
 - [DEM530: Legal Contracting w/AI: DraftWise's Integration of Cohere's Models](https://build.microsoft.com/en-US/sessions/DEM530?source=sessions) (May 20 | 6:10 PM)
+- [BRK139: Inside Azure AI Foundry Labs: Experimenting with the Future of AI](https://build.microsoft.com/en-US/sessions/BRK139?source=sessions) (May 21 | 9:00 am)
 - [DEM531: Content Creation: Using Stability AI's Visual Models for Marketing](https://build.microsoft.com/en-US/sessions/DEM531?source=sessions) (May 21 | 3:50 PM)
+
 
 ## FAQ
