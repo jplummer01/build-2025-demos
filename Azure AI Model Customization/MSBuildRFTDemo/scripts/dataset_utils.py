@@ -23,44 +23,71 @@ import json
 def save_dataset_as_jsonl(dataset, file_path, max_records=None):
     """
     Save a dataset to a JSONL file with all values converted to strings.
+    Only includes samples where 'nums' has exactly 4 elements.
 
     Args:
         dataset: The dataset to save.
         file_path: The path to the output JSONL file.
         max_records: The maximum number of records to save (optional).
     """
+    fetch_multiplier = 10
     if max_records:
-        dataset = dataset.shuffle(seed=123).select(range(max_records))
+        dataset = dataset.shuffle(seed=123).select(range(max_records * fetch_multiplier))
     
+    count = 0
     with open(file_path, "w", encoding="utf-8") as f:
         for example in dataset:
-            # Convert all values in the example to strings
-            stringified_example = {key: str(value) for key, value in example.items()}
-            f.write(json.dumps(stringified_example) + "\n")
-    print(f"✅ Saved {len(dataset)} records to {file_path} in evaluation format")
-
+            nums = example.get("nums", [])
+            # Accept both list and string representations of nums
+            if isinstance(nums, str):
+                try:
+                    nums_eval = json.loads(nums)
+                except Exception:
+                    nums_eval = []
+            else:
+                nums_eval = nums
+            if isinstance(nums_eval, list) and len(nums_eval) == 4:
+                stringified_example = {key: str(value) for key, value in example.items()}
+                f.write(json.dumps(stringified_example) + "\n")
+                count += 1
+                if max_records and count >= max_records:
+                    break
+    print(f"✅ Saved {count} records to {file_path} in evaluation format (only samples with 4 nums)")
 
 def save_dataset_in_eval_format(dataset, file_path, max_records=None):
     """
     Save a dataset to a JSONL file in evaluation format by enclosing each record in an 'item' field
-    and converting all values to strings.
+    and converting all values to strings. Only includes samples where 'nums' has exactly 4 elements.
 
     Args:
         dataset: The dataset to save. Can be a list of dictionaries or a dataset object.
         file_path: The path to the output JSONL file.
         max_records: The maximum number of records to save (optional).
     """
+    fetch_multiplier = 5
     if max_records:
-        dataset = dataset.shuffle(seed=123).select(range(max_records))
+        dataset = dataset.shuffle(seed=123).select(range(max_records * fetch_multiplier))
 
+    count = 0
     with open(file_path, "w", encoding="utf-8") as f:
         for example in dataset:
-            # Convert all values in the example to strings
-            stringified_example = {key: str(value) for key, value in example.items()}
-            # Enclose the example in an 'item' field
-            formatted_example = {"item": stringified_example}
-            f.write(json.dumps(formatted_example) + "\n")
-    print(f"✅ Saved {len(dataset)} records to {file_path} in evaluation format")
+            nums = example.get("nums", [])
+            # Accept both list and string representations of nums
+            if isinstance(nums, str):
+                try:
+                    nums_eval = json.loads(nums)
+                except Exception:
+                    nums_eval = []
+            else:
+                nums_eval = nums
+            if isinstance(nums_eval, list) and len(nums_eval) == 4:
+                stringified_example = {key: str(value) for key, value in example.items()}
+                formatted_example = {"item": stringified_example}
+                f.write(json.dumps(formatted_example) + "\n")
+                count += 1
+                if max_records and count >= max_records:
+                    break
+    print(f"✅ Saved {count} records to {file_path} in evaluation format (only samples with 4 nums)")
 
     
 def convert_to_rft_dataset(input_path, output_path, system_prompt, max_records=10):
