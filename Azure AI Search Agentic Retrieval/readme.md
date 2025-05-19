@@ -3,6 +3,8 @@ Content to help experts prepare for staffing the  Azure AI Search Agentic Retrie
 
 ## At the booth
 
+![Azure AI Search | Agentic Retrieval | BUILD 2025 Helpful Links](images/AzureAISearch_QRCodes.png)
+
 ### Feedback
 If a customer has a feature request or product feedback, send them here: [https://aka.ms/AI/Feedback](https://aka.ms/AI/Feedback)
 
@@ -15,15 +17,54 @@ If a customer has a feature request or product feedback, send them here: [https:
 
 ### Running Demos
 - [Agentic Retrieval Demo](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/)
-- [Multimodal Demo](TBD)
+- [Multimodal Demo](https://mmapp-nq6bj36spgzzs.azurewebsites.net/)
+  - Multimodal Ingestion
+  ![Multimodal Ingestion](images/Multimodal_Search_wizard_compressed.gif)
+  - [Sample PDF](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample/blob/main/data/2024-State-of-AI-Change-Readiness-eBook.pdf)
+  - Demo queries:
+  - What percentage of engaged AI users say that AI helps them improve the quality of their work?
+  - What percentage of employees who said they use AI at least once a day feel like they are productive at work?
 
 ### Code Samples
 - [Agentic Retrieval Sample](https://github.com/Azure-Samples/azure-search-openai-demo)
-- [Multimodal Sample](https://github.com/Azure-Samples/ai-search-multimodal-rag-demo)
-- [Agent Memory](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
+- [Multimodal Sample](https://aka.ms/AIsearch-multimodal)
 - MCP
   - [Azure MCP](https://github.com/Azure/azure-mcp)
   - [Foundry MCP](https://github.com/azure-ai-foundry/mcp-foundry)
+
+## Sessions
+- [KEY010: Opening keynote](https://build.microsoft.com/en-US/sessions/KEY010?source=sessions) (May 19 | 9:05am)
+- [BRK155: Azure AI Foundry: Agent factory](https://build.microsoft.com/en-US/sessions/BRK155?source=sessions) (May 19 | 11:15am)
+- [BRK141: Knowledge retrieval: RAG for agents](https://build.microsoft.com/en-US/sessions/BRK141?source=sessions) (May 19 | 5:30pm)
+- [DEM529: Memory and agentic retrieval with AI Search](https://build.microsoft.com/en-US/sessions/DEM529?source=sessions) (May 19 | 2:25pm)
+- [COMM401: Conversations: AMA with Pablo](https://build.microsoft.com/en-US/sessions/COMM401?source=sessions) (May 20 | 5:45pm)
+- [BRK142: Agentic RAG: build a reasoning retrieval engine](https://build.microsoft.com/en-US/sessions/BRK142?source=sessions) (May 21 | 12:30pm)
+
+## Background Info
+
+## Documentation
+- [What's new in Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/whats-new)
+- [Agentic Retrieval - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-concept)
+  - [Quickstart: Run agentic retrieval in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?pivots=python)
+  - [Create an agent in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-create)
+  - [Retrieve data using an agent in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-retrieve)
+  - [Define an index for agentic retrieval in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-index)
+  - [Build an agent-to-agent retrieval solution using Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-pipeline)
+- [Multimodal search concepts and guidance in Azure AI Search - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/multimodal-search-overview)
+  - [Tutorial: Index mixed content using multimodal embeddings and the Document Extraction skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-indexing-with-embedding-and-doc-extraction)
+  - [Tutorial: Index mixed content using image verbalizations and the Document Extraction skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-indexing-with-image-verbalization-and-doc-extraction)
+  - [Tutorial: Index mixed content using multimodal embeddings and the Document Layout skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-index-embeddings-skill)
+  - [Tutorial: Index mixed content using image verbalizations and the Document Layout skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-index-image-verbalization-skill)
+- [Document-level access control - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-document-level-access-overview)
+- [Connect to Logic Apps - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-how-to-index-logic-apps-indexers)
+- [Upgrade your Azure AI Search service in the Azure portal](https://learn.microsoft.com/en-us/azure/search/search-how-to-upgrade)
+- [Change your pricing tier (SKU)](https://learn.microsoft.com/en-us/azure/search/search-sku-tier#tier-changes)
+
+## Blogs
+- [Agentic Retrieval Announcement](aka.ms/AgentRAG)
+- [Agentic Retrieval Evals and Test](aka.ms/AISearch-ARevals)
+- [Multimodal Announcement](https://aka.ms/Build25/aisearch-multim)
+- [Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service | Azure AI Foundry Blog](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)
 
 ## Tier 2 Announcements 
 - Agentic Retrieval (Public Preview)
@@ -48,43 +89,11 @@ If a customer has a feature request or product feedback, send them here: [https:
   - Support for Confidential Compute
   - User-assigned Managed Identity Support
 
-## Sessions
-- [KEY010: Opening keynote](https://build.microsoft.com/en-US/sessions/KEY010?source=sessions) (May 19 | 9:05am)
-- [BRK155: Azure AI Foundry: Agent factory](https://build.microsoft.com/en-US/sessions/BRK155?source=sessions) (May 19 | 11:15am)
-- [BRK141: Knowledge retrieval: RAG for agents](https://build.microsoft.com/en-US/sessions/BRK141?source=sessions) (May 19 | 5:30pm)
-- [DEM529: Memory and agentic retrieval with AI Search](https://build.microsoft.com/en-US/sessions/DEM529?source=sessions) (May 19 | 2:25pm)
-- [COMM401: Conversations: AMA with Pablo](https://build.microsoft.com/en-US/sessions/COMM401?source=sessions) (May 20 | 5:45pm)
-- [BRK142: Agentic RAG: build a reasoning retrieval engine](https://build.microsoft.com/en-US/sessions/BRK142?source=sessions) (May 21 | 12:30pm)
-
-## Documentation
-- [What's new in Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/whats-new)
-- [Agentic Retrieval - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-concept)
-  - [Quickstart: Run agentic retrieval in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?pivots=python)
-  - [Create an agent in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-create)
-  - [Retrieve data using an agent in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-retrieve)
-  - [Define an index for agentic retrieval in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-index)
-  - [Build an agent-to-agent retrieval solution using Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-pipeline)
-- [Multimodal search concepts and guidance in Azure AI Search - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/multimodal-search-overview)
-  - [Tutorial: Index mixed content using multimodal embeddings and the Document Extraction skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-indexing-with-embedding-and-doc-extraction)
-  - [Tutorial: Index mixed content using image verbalizations and the Document Extraction skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-indexing-with-image-verbalization-and-doc-extraction)
-  - [Tutorial: Index mixed content using multimodal embeddings and the Document Layout skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-index-embeddings-skill)
-  - [Tutorial: Index mixed content using image verbalizations and the Document Layout skill](https://learn.microsoft.com/en-us/azure/search/tutorial-multimodal-index-image-verbalization-skill)
-- [Document-level access control - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-document-level-access-overview)
-- [Connect to Logic Apps - Azure AI Search | Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/search-how-to-index-logic-apps-indexers)
-- [Upgrade your Azure AI Search service in the Azure portal](https://learn.microsoft.com/en-us/azure/search/search-how-to-upgrade)
-- [Change your pricing tier (SKU)](https://learn.microsoft.com/en-us/azure/search/search-sku-tier#tier-changes)
-
-## Blogs
-- [Agentic Retrieval Announcement](aka.ms/AgentRAG)
-- [Agentic Retrieval Evals and Test](aka.ms/AISearch-ARevals)
-- [Multimodal Announcement]()
-- [Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service | Azure AI Foundry Blog](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)
-
 ## FAQ
 
 ### Azure AI Search Agentic Retrieval
-**Q: Can you take in a prompt (along with chat history) as well - so the subqueries are domain specific?**
-A: Currently, agentic retrieval does not allow for a prompt to be included along with the chat history. However, instructions can be included in the conversation, but there is no guarantee it will steer the subqueries effectively.
+**Q: Is the prompt used for query process customizable? Can you pass in a prompt and additional context so the subqueries are domain specific?**
+A: Currently, agentic retrieval does not allow for a prompt to be included along with the chat history. Processing guidance can be included in the conversation passed to the API, but there is no guarantee it will steer the subqueries effectively.
  
 **Q: Does the activity log include tokens in/out?**
 A: Yes, the activity log includes the tokens used for query planning, allowing you to see the token usage.
