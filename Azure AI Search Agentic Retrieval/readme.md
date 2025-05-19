@@ -18,12 +18,13 @@ If a customer has a feature request or product feedback, send them here: [https:
 ### Running Demos
 - [Agentic Retrieval Demo](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/)
 - [Multimodal Demo](https://mmapp-nq6bj36spgzzs.azurewebsites.net/)
-  - Multimodal Ingestion
-  ![Multimodal Ingestion](images/Multimodal_Search_wizard_compressed.gif)
+
   - [Sample PDF](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample/blob/main/data/2024-State-of-AI-Change-Readiness-eBook.pdf)
-  - Demo queries:
-  - What percentage of engaged AI users say that AI helps them improve the quality of their work?
-  - What percentage of employees who said they use AI at least once a day feel like they are productive at work?
+  - **Demo queries:**
+    What percentage of engaged AI users say that AI helps them improve the quality of their work?
+    What percentage of employees who said they use AI at least once a day feel like they are productive at work?
+  - **Multimodal Ingestion**
+    ![Multimodal Ingestion](images/Multimodal_Search_wizard_compressed.gif)
 
 ### Code Samples
 - [Agentic Retrieval Sample](https://github.com/Azure-Samples/azure-search-openai-demo)
