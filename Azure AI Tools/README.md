@@ -36,6 +36,3 @@ If a customer has a feature request or product feedback, send them here: [https:
 
 ## FAQ
 - 
-
-### Azure AI Search Agentic Retrieval
-- 
