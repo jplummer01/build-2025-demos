@@ -25,8 +25,8 @@ Enhance the safety and security of your AI deployments with better monitoring, a
 [BRK168](https://build.microsoft.com/en-US/sessions/BRK168?source=sessions) AI and Agent Observability in Azure AI Foundry and Azure Monitor - Wednesday, May 21 | 12:30 PM - 1:30 PM
 
 ## Documentation
-- [Personally Identifiable Information (PII) Filter - Azure AI services | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-personal-information?branch=release-build-ai-foundry) 
-- [Content Filter Prompt Shields - Azure AI services | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-prompt-shields?branch=release-build-ai-foundry)
-- [Document embedding in prompts](https://review.learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-document-embedding?branch=release-build-ai-foundry)
+- [Personally Identifiable Information (PII) Filter - Azure AI services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-personal-information?branch=release-build-ai-foundry) 
+- [Content Filter Prompt Shields - Azure AI services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-prompt-shields?branch=release-build-ai-foundry)
+- [Document embedding in prompts](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-document-embedding?branch=release-build-ai-foundry)
 - [Use content filters (preview) - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters#specify-a-content-filtering-configuration-at-request-time-preview)
-- [Trustworthy AI for Azure AI Foundry | Microsoft Learn](https://review.learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview?branch=release-build-ai-foundry-non-FDP-features)
+- [Trustworthy AI for Azure AI Foundry | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview?branch=release-build-ai-foundry-non-FDP-features)
