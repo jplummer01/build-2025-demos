@@ -1,6 +1,8 @@
 # Azure AI Tools: Meet the Experts Booth Content
 Content to help experts prepare for staffing the  Azure AI Tools booth at BUILD 2025.
 
+AI Tools includes all things language, speech, and translation.
+
 ## Sessions
 - [BRK144: Transform your agentic apps with voice in Foundry](https://build.microsoft.com/en-US/sessions/BRK144?source=sessions) (May 21 | 3:30pm)
    - [Deck](https://microsoft.sharepoint.com/:p:/t/SpeechandLanguage/EcfMMBqcuL9DhVihDqK5bQYBbbwv2dUA6AqETJT6FRm23Q?e=0aWLNk)
@@ -22,17 +24,14 @@ If a customer has a feature request or product feedback, send them here: [https:
    - If you wish to use the app that’s available on the App Store, please proceed to download the app via this link https://apps.apple.com/us/app/microsoft-translator-pro/id6471999637 (Note: please do not share this link externally, it’s a private app that’s shared with gated customers)
 
 ## Tier 2 Announcements 
--  Public Preview: Offer both Nmt And Llm Translation Through Translator API, 5/19
+-  Public Preview: Offer both NMT And LLM Translation Through Translator API, 5/19
 -  Public Preview: Voice Live API, 5/20
 -  GA: Video Translation Service With New Voice Conversion And Lip Sync, 5/20
 -  Public Preview: Embedded Real Time Speech Translation, 5/20
 -  GA: Adaptive Customized Translation, 5/20
 
-## Documentation
--
-
-## Blogs
-- 
-
-## FAQ
-- 
+## Blogs and Documentation
+- [Content Understanding](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-content-understanding-for-beginners/4413071)
+- [Voice agents](https://techcommunity.microsoft.com/blog/azurecommunicationservicesblog/build-your-own-real-time-voice-agent---announcing-preview-of-bidirectional-audio/4354770)
+- [Translator, no updates since 2023](https://www.microsoft.com/en-us/translator/)
+- [Azure AI Speech Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
