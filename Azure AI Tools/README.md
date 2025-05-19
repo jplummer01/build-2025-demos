@@ -2,7 +2,7 @@
 Content to help experts prepare for staffing the  Azure AI Tools booth at BUILD 2025.
 
 ## Sessions
-- [BRK144: Transform your agentic apps with voice in Foundry] (https://build.microsoft.com/en-US/sessions/BRK144?source=sessions) (May 21 | 3:30pm)
+- [BRK144: Transform your agentic apps with voice in Foundry](https://build.microsoft.com/en-US/sessions/BRK144?source=sessions) (May 21 | 3:30pm)
    - [Deck](https://microsoft.sharepoint.com/:p:/t/SpeechandLanguage/EcfMMBqcuL9DhVihDqK5bQYBbbwv2dUA6AqETJT6FRm23Q?e=0aWLNk)
 - [BRK169: Reasoning on multimodal content for efficient agentic AI app building](https://build.microsoft.com/en-US/sessions/BRK169?source=sessions) (May 21 | 3:30pm)
    - [Deck](https://microsoft.sharepoint.com/:p:/t/AzureMMI/Ef1uhTCtlDBKoiCsJGhkLi8BZ-YlZtkLSgjFFO8FAuFpAQ?e=RDF6Pr)
