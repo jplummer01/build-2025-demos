@@ -28,6 +28,7 @@ Production Support
 - [E2E Distillation](TBD)
 - [o4-mini RFT](TBD)
 - [Vision FT with 4.1](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning)
+- [RAFT](https://github.com/Azure-Samples/azure-openai-raft/tree/main)
 
 ## Blogs
 - Coming Soon
