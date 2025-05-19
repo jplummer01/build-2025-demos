@@ -18,7 +18,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 ## Booth Content
 
-* Booth Slides: [AOAI rotating deck](https://1drv.ms/p/c/d17313624f8feacf/EYLnrQEkSYdOkSIF0W8v630B8RkZ5YSKj43dca-Ohl_aUw?e=ebtcZC)
+* Booth Slides: [AOAI rotating deck](https://1drv.ms/p/c/d17313624f8feacf/EYLnrQEkSYdOkSIF0W8v630B8RkZ5YSKj43dca-Ohl_aUw?e=plbvB8)
 * Demos & videos: [AOAI demos deck](https://1drv.ms/b/c/d17313624f8feacf/ETw2W-IEwvpDmK47diVDe6YBy-jLQ9xGI5eyeBTktDiUJQ?e=q9z4bf)
 * Sora: [Video reel](https://1drv.ms/v/c/d17313624f8feacf/ETILRbGnZyFBjilroLzMWkEBvWcl1z-dWiIvnTGkbn-giQ?e=RVNvRj)
 * Azure AI Foundry Video Playground (preview): [Walkthrough demo](https://1drv.ms/v/c/d17313624f8feacf/EXJX_ov7HzNGgsBso4GA0pgB8mYzU4eRDyn1Yydq-AwwsQ?e=VjlRgy)
