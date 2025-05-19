@@ -25,8 +25,8 @@ Production Support
 
 
 ## Demos and Samples
-- [E2E Distillation](TBD)
-- [o4-mini RFT](TBD)
+- [E2E Distillation](https://github.com/azure-ai-foundry/build-2025-demos/tree/main/Azure%20AI%20Model%20Customization/DistillationDemo)
+- [o4-mini RFT](https://github.com/azure-ai-foundry/build-2025-demos/tree/main/Azure%20AI%20Model%20Customization/MSBuildRFTDemo)
 - [Vision FT with 4.1](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning)
 - [RAFT](https://github.com/Azure-Samples/azure-openai-raft/tree/main)
 
