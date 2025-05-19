@@ -1,32 +1,30 @@
 # Azure AI Search Agentic Retrieval: Meet the Experts Booth Content
 Content to help experts prepare for staffing the  Azure AI Search Agentic Retrieval booth at BUILD 2025.
 
-## At the booth
-
 ![Azure AI Search | Agentic Retrieval | BUILD 2025 Helpful Links](images/AzureAISearch_QRCodes.png)
 
-### Feedback
-If a customer has a feature request or product feedback, send them here: [https://aka.ms/AI/Feedback](https://aka.ms/AI/Feedback)
-
-### Decks
+## Decks
 - [BUILD 2025 Product Announcements](https://aka.ms/AISearch-releases)
 - Azure AI Search Pitch Decks
   - [L100](https://aka.ms/aisearch-L100)
   - [L300](https://aka.ms/AISearch-L300)
   - [L400](https://aka.ms/AISearch-L400)
 
-### Running Demos
+## Running Demos
 - [Agentic Retrieval Demo](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/)
 - [Multimodal Demo](https://mmapp-nq6bj36spgzzs.azurewebsites.net/)
 
+## Demo Scenarios
+
+- **Multimodal**
   - [Sample PDF](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample/blob/main/data/2024-State-of-AI-Change-Readiness-eBook.pdf)
   - **Demo queries:**
-    What percentage of engaged AI users say that AI helps them improve the quality of their work?
-    What percentage of employees who said they use AI at least once a day feel like they are productive at work?
+    - What percentage of engaged AI users say that AI helps them improve the quality of their work?
+    - What percentage of employees who said they use AI at least once a day feel like they are productive at work?
   - **Multimodal Ingestion**
     ![Multimodal Ingestion](images/Multimodal_Search_wizard_compressed.gif)
 
-### Code Samples
+## Code Samples
 - [Agentic Retrieval Sample](https://github.com/Azure-Samples/azure-search-openai-demo)
 - [Multimodal Sample](https://aka.ms/AIsearch-multimodal)
 - MCP
@@ -40,6 +38,9 @@ If a customer has a feature request or product feedback, send them here: [https:
 - [DEM529: Memory and agentic retrieval with AI Search](https://build.microsoft.com/en-US/sessions/DEM529?source=sessions) (May 19 | 2:25pm)
 - [COMM401: Conversations: AMA with Pablo](https://build.microsoft.com/en-US/sessions/COMM401?source=sessions) (May 20 | 5:45pm)
 - [BRK142: Agentic RAG: build a reasoning retrieval engine](https://build.microsoft.com/en-US/sessions/BRK142?source=sessions) (May 21 | 12:30pm)
+
+### Feedback
+If a customer has a feature request or product feedback, send them here: [https://aka.ms/AI/Feedback](https://aka.ms/AI/Feedback)
 
 ## Background Info
 
