@@ -16,6 +16,7 @@ Production Support
 
 ## Decks
 - [Rolling Deck at the booth(with FAQ)](https://microsoftapc-my.sharepoint.com/:p:/g/personal/nandinim_microsoft_com/EWwZ-TJxU1JEkNbSFp3tQRcBFXwI1cdPlkDZDhWEk0J6qg?e=tpNEeN)
+  This deck included sizzle videos, deep dive sections / L300s
 
 ## Documentation
 - [Customize Model with Fine Tuning | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=azure-openai&pivots=programming-language-studio)
@@ -25,11 +26,8 @@ Production Support
 
 ## Demos and Samples
 - [E2E Distillation](TBD)
-- [Distillation - Sizzle](TBD)
-- [RFT - Wealth Use case](TBD)
-- [RFT - Sizzle ](TBD)
-- [RFT - Use case](TBD)
-- [Vision FT](TBD)
+- [o4-mini RFT](TBD)
+- [Vision FT with 4.1](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning)
 
 ## Blogs
 - Coming Soon
