@@ -18,12 +18,12 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 ## Booth Content
 
-* Booth Slides: [AOAI rotating deck](https://microsoft.sharepoint.com/:p:/t/AIPSC/ETGlbzv-asxBtP45b6Y1dNgBfLj75sDjJH66bFkYw3G7hg?e=9s6oce)
-* Demos & videos: [AOAI demos deck](https://microsoft.sharepoint.com/:p:/t/AIPSC/EfAWr0ttyGJHuaA0jFphjUwBBUwq4SkcLfWyenmmar2U0w?e=0eKWkY)
-* Sora: [Video reel](https://microsoft.sharepoint.com/:v:/t/AIPSC/EVI1pIo0vT1MnqlGaCjxhssBqjFjY2vmlRh92QnDbxzxhA?e=w7szWa)
-* Azure AI Foundry Video Playground (preview): [Walkthrough demo](https://microsoft.sharepoint.com/:v:/t/AIPSC/EcUFoDD3PGFAoxE0jh2B0M4BqpR5e5jrYZevbEyJp1i0AA?e=7UmR7H)
-* Azure AI Foundry Video Playground to open in VS Code: [Walkthrough demo](https://microsoft.sharepoint.com/:v:/t/AIPSC/EcUFoDD3PGFAoxE0jh2B0M4BqpR5e5jrYZevbEyJp1i0AA?e=7UmR7H)
-* Azure OpenAI Model Router (preview): [Demo video](https://microsoft.sharepoint.com/:v:/t/AIPSC/EVCeG1EoxelPjc-0lwpyKjEBkAg9x0VSX2qzYDHTMyaNUw?e=bFP4Tt)
+* Booth Slides: [AOAI rotating deck](https://1drv.ms/p/c/d17313624f8feacf/EYLnrQEkSYdOkSIF0W8v630B8RkZ5YSKj43dca-Ohl_aUw?e=plbvB8)
+* Demos & videos: [AOAI demos deck](https://1drv.ms/b/c/d17313624f8feacf/ETw2W-IEwvpDmK47diVDe6YBy-jLQ9xGI5eyeBTktDiUJQ?e=q9z4bf)
+* Sora: [Video reel](https://youtu.be/x6Oj2wbrLcU)
+* Azure AI Foundry Video Playground (preview): [Walkthrough demo](https://youtu.be/V29lwzWPwTE)
+* Azure AI Foundry Video Playground to open in VS Code: [Walkthrough demo](https://youtu.be/79zzSMY1nh4)
+* Azure OpenAI Model Router (preview): [Demo video](https://1drv.ms/v/c/d17313624f8feacf/EZYbJdl1bQtDsqombEEnFTsBQL8GtVIU4FEiyaQxP9srsQ?e=8uT0CS)
 
 ## Azure AI Foundry Blogs
 

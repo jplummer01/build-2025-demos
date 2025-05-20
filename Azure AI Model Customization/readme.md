@@ -10,7 +10,7 @@ Production Support
 ## Sessions
 - [KEY010](https://build.microsoft.com/en-US/sessions/KEY010?source=sessions)  Opening keynote - May 19 | 9:05am
 - [BRK155](https://build.microsoft.com/en-US/sessions/BRK155?source=sessions)  Azure AI Foundry: Agent factory - May 20 | 11:15am
-- [BRK150](https://build.microsoft.com/en-US/sessions/BRK150?source=sessions)  Fine Tuning and Distillation with Azure AI Foundry - May 20 | 5:30pm 
+- [BRK150](https://build.microsoft.com/en-US/sessions/BRK150?source=sessions)  Fine Tuning and Distillation with Azure AI Foundry - May 20 | 2:30pm 
 - [LAB329](https://build.microsoft.com/en-US/sessions/LAB329?source=sessions)  Fine tuning and E2E Distillation - May 20 | 2:25pm
 
 
@@ -25,9 +25,10 @@ Production Support
 
 
 ## Demos and Samples
-- [E2E Distillation](TBD)
-- [o4-mini RFT](TBD)
+- [E2E Distillation](https://github.com/azure-ai-foundry/build-2025-demos/tree/main/Azure%20AI%20Model%20Customization/DistillationDemo)
+- [o4-mini RFT](https://github.com/azure-ai-foundry/build-2025-demos/tree/main/Azure%20AI%20Model%20Customization/MSBuildRFTDemo)
 - [Vision FT with 4.1](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning)
+- [RAFT](https://github.com/Azure-Samples/azure-openai-raft/tree/main)
 
 ## Blogs
 - Coming Soon
