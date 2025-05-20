@@ -24,6 +24,12 @@ Content to help experts prepare for staffing the  Azure AI Search Agentic Retrie
   - **Multimodal Ingestion**
     ![Multimodal Ingestion](images/Multimodal_Search_wizard_compressed.gif)
 
+## Blogs
+- [Agentic Retrieval Announcement](https://aka.ms/AgentRAG)
+- [Agentic Retrieval Evals and Test](https://aka.ms/AISearch-ARevals)
+- [Multimodal Announcement](https://aka.ms/Build25/aisearch-multim)
+- [Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service | Azure AI Foundry Blog](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)
+
 ## Code Samples
 - [Agentic Retrieval Sample](https://github.com/Azure-Samples/azure-search-openai-demo)
 - [Multimodal Sample](https://aka.ms/AIsearch-multimodal)
@@ -34,7 +40,7 @@ Content to help experts prepare for staffing the  Azure AI Search Agentic Retrie
 ## Sessions
 - [KEY010: Opening keynote](https://build.microsoft.com/en-US/sessions/KEY010?source=sessions) (May 19 | 9:05am)
 - [BRK155: Azure AI Foundry: Agent factory](https://build.microsoft.com/en-US/sessions/BRK155?source=sessions) (May 19 | 11:15am)
-- [BRK141: Knowledge retrieval: RAG for agents](https://build.microsoft.com/en-US/sessions/BRK141?source=sessions) (May 19 | 5:30pm)
+- [BRK141: Knowledge retrieval: RAG for agents](https://build.microsoft.com/en-US/sessions/BRK141?source=sessions) (May 19 | 6:00pm)
 - [DEM529: Memory and agentic retrieval with AI Search](https://build.microsoft.com/en-US/sessions/DEM529?source=sessions) (May 19 | 2:25pm)
 - [COMM401: Conversations: AMA with Pablo](https://build.microsoft.com/en-US/sessions/COMM401?source=sessions) (May 20 | 5:45pm)
 - [BRK142: Agentic RAG: build a reasoning retrieval engine](https://build.microsoft.com/en-US/sessions/BRK142?source=sessions) (May 21 | 12:30pm)
@@ -62,11 +68,7 @@ If a customer has a feature request or product feedback, send them here: [https:
 - [Upgrade your Azure AI Search service in the Azure portal](https://learn.microsoft.com/en-us/azure/search/search-how-to-upgrade)
 - [Change your pricing tier (SKU)](https://learn.microsoft.com/en-us/azure/search/search-sku-tier#tier-changes)
 
-## Blogs
-- [Agentic Retrieval Announcement](aka.ms/AgentRAG)
-- [Agentic Retrieval Evals and Test](aka.ms/AISearch-ARevals)
-- [Multimodal Announcement](https://aka.ms/Build25/aisearch-multim)
-- [Introducing Model Context Protocol (MCP) in Azure AI Foundry: Create an MCP Server with Azure AI Agent Service | Azure AI Foundry Blog](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)
+
 
 ## Tier 2 Announcements 
 - Agentic Retrieval (Public Preview)
