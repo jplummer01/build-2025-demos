@@ -29,7 +29,7 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 
 * https://aka.ms/Build25/FoundryFT
 * https://aka.ms/Build25/HeroBlog/Foundry
-* https://aka.ms/Sora_Build_Blog 
+* https://aka.ms/Sora_Build_Blog
 
 ## Sessions
 
@@ -49,3 +49,4 @@ Please use resources below for Azure OpenAI Expert Meetup booth content for BUIL
 * [Azure OpenAI Service fine-tuning considerations](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext)
 * [Azure OpenAI Prompt Caching](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching)
 * [Azure OpenAI Batch API](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch?tabs=global-batch%2Cstandard-input%2Cpython-secure&pivots=ai-foundry-portal)
+* https://aka.ms/model-router-docs
