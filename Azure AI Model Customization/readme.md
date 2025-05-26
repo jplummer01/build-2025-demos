@@ -15,7 +15,7 @@ Production Support
 
 
 ## Decks
-- [Rolling Deck at the booth(with FAQ)](https://microsoftapc-my.sharepoint.com/:p:/g/personal/nandinim_microsoft_com/EZrMHo0C8-tNvwe5yX5wdxUBSUVjVLy560AMmkthy-SKnw?e=MWKNYj)
+- [Rolling Deck at the booth(with FAQ)](https://microsoftapc-my.sharepoint.com/:b:/g/personal/nandinim_microsoft_com/EWVM2aOn2gVEtAxTPJviOMIBo-_62VcdSh8_ajCPNltelQ?e=wNuzP4)
   This deck included sizzle videos, deep dive sections / L300s
 
 ## Documentation
